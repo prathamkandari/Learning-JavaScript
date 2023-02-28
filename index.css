@@ -1,0 +1,16 @@
+button{
+    font-size: 200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#increment-btn{
+    background-color: red;
+}
